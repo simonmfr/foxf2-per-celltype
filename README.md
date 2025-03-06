@@ -1,3 +1,3 @@
-# Foxf2 per celltype
+# Study-by-celltype gene expression
 
-Analysing sc/snRNA-seq datasets for comparing expression levels of Foxf2
+Aim: Identificaiton of cell type specific expression across sc/snRNA-seq datasets
